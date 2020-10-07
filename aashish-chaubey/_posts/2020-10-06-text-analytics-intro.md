@@ -31,11 +31,12 @@ Text analytics has many advantages – it’s scalable, meaning you can analyze 
 ## How do NLP and Text Analytics relate?
 Text Analytics is an artificial intelligence (AI) technology that uses Natural Language Processing (NLP) to transform the free (unstructured) text in documents and databases into normalized, structured data suitable for analysis or to drive machine learning (ML) algorithms. So in other words, NLP is just one of the multitude of ways used for carrying out text analytics.
 
-NLP is growing in importance and adoption in the community of linguists because
+NLP is growing in importance and adoption in the community of linguists because:
 
-It is very efficient in handling large volumes of text data
-Equally good in structuring highly unstructured data source
-And lately, it is started delivering on the huge promises toward a seamless system.
+1. It is very efficient in handling large volumes of text data
+2. Equally good in structuring highly unstructured data source
+
+And lately, it is started delivering on the huge promises it made in developing a seamless ecosystem for the AI enthusiasts and the linguists to collaborate.
 
 ## Glossary
 **Unstructured data**: data stored in its native format and not processed until it is used eg., documents, e-mails, blogs, digital images, videos, and satellite imagery.
