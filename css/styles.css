@@ -3959,6 +3959,10 @@ input[type=button].btn-block {
   display: block;
 }
 
+.awards {
+  padding-bottom: 1em;
+}
+
 .navbar {
   position: relative;
   display: flex;
