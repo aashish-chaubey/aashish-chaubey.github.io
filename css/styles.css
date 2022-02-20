@@ -10097,6 +10097,20 @@ p.lead {
     display: block;
   }
 }
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+  background-color: #495057;
+  color: #fff;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
@@ -10115,9 +10129,17 @@ p.lead {
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
 }
+.float:hover {
+  background-color: #bd5d38;
+  color: #fff !important;
+}
 
 .dev-icons {
   font-size: 3rem;
+}
+
+.my-float{
+	margin-top:22px;
 }
 
 section.resume-section {
